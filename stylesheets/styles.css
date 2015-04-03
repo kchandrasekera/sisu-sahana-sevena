@@ -687,8 +687,10 @@ header p {
 }
 
 #subtext {
-  margin: 12px 165px 0 465px;
+  margin: 12px;
   color: #235796;
+  position: fixed;
+  width: 100%;
 }
 
 #banner {
