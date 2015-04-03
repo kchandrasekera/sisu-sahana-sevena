@@ -801,8 +801,9 @@ header p {
 section {
 /*  width: 590px;*/
   padding: 30px 50px 50px 50px;
-  margin: 20px 0;
   margin-top: 170px;
+  margin-bottom: 20px;
+  margin-left: 74px;
   position: relative;
   background: #fbfbfb;
   -moz-border-radius: 3px;
@@ -827,7 +828,7 @@ nav {
   position: fixed;
   top: 166px;
   left: 50%;
-  margin-left: -580px;
+  margin-left: -560px;
   text-align: right;
 }
 nav ul {
