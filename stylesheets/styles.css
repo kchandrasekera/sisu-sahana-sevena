@@ -792,10 +792,9 @@ header p {
   position: absolute;
   height: 36px;
   width: 36px;
-  right: 7px;
-  top: 7px;
+  right: 152px;
+  top: 1px;
   display: block;
-  background: url(../images/octocat-logo.png);
 }
 
 section {
