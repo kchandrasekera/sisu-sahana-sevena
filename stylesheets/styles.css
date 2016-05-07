@@ -792,9 +792,17 @@ header p {
   position: absolute;
   height: 36px;
   width: 36px;
-  right: 152px;
+
   top: 1px;
   display: block;
+}
+
+#banner #ticket {
+  right: 152px;
+}
+
+#banner #donation {
+  right: 130px;
 }
 
 section {
@@ -894,8 +902,11 @@ footer {
   #banner .downloads {
     margin-right: 60px;
   }
-  #banner .paypal {
+  #banner #ticket {
     margin-right: 15px;
+  }
+  #banner #donation {
+    margin-right: 50px;
   }
 
   section {
