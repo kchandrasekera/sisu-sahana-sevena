@@ -792,17 +792,16 @@ header p {
   position: absolute;
   height: 36px;
   width: 36px;
-
   top: 1px;
   display: block;
 }
 
 #banner #ticket {
-  right: 152px;
+  right: 150px;
 }
 
 #banner #donation {
-  right: 130px;
+  left: 30px;
 }
 
 section {
@@ -906,7 +905,7 @@ footer {
     margin-right: 15px;
   }
   #banner #donation {
-    margin-right: 50px;
+    margin-left: 10px;
   }
 
   section {
